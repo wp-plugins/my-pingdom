@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: My Pingdom
-Plugin URI: http://wordpress.org/extend/plugins/my_pingdom/
+Plugin URI: http://www.grumpyoldman.be/my-pingdom-come/
 Description: Updates Ping.FM when you create, edit, or update a blog post. Based upon the <a href="http://www.hedenstroem.com/wordpress-plugins/microblog-updater/">Microblog Updater</a> and inspired by <a href="http://www.soldoutactivist.com/project-pingpressfm">PingPress.fm</a>.
 Version: 1.0
 Author: Eddy De Clercq
